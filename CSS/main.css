@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(186, 164, 238);
+}
+h1{
+    color: rgb(78, 78, 201);
+    font-size: 35px;
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    color: rgb(67, 64, 218);
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 4px dashed rgb(69, 69, 141);
+    padding: 10px;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 10px solid rgb(116, 75, 231);
+    border-radius: 400px;
+    margin-left: 500px;
+}
